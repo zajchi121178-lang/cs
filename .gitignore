@@ -1,0 +1,10 @@
+*.log
+*.tmp
+*.out
+target/
+project/target/
+.idea/
+*.iml
+SparkSQL/
+results/
+*.class
