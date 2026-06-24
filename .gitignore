@@ -1,10 +1,8 @@
-*.log
-*.tmp
-*.out
-target/
-project/target/
-.idea/
-*.iml
-SparkSQL/
-results/
 *.class
+*.log
+target/
+.idea/
+.vscode/
+data/
+results/
+SparkSQL/
